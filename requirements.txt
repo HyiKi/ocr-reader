@@ -1,0 +1,11 @@
+easyocr
+torch
+torchvision>=0.5
+scipy
+numpy
+
+opencv-python-headless
+scikit-image
+python-bidi
+PyYAML
+ffmpeg-python
